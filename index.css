@@ -1,0 +1,22 @@
+:root{
+    --mavi:#6bc2f1;
+}
+header{background: url('img/headerbg.jpg') center/cover;}
+
+/* backgrounds */
+.bgmavi{background: var(--mavi);}
+footer{background:#072035;}
+.sekil1{width:57px;
+    height:70px;}
+.sekil2{width:50px;
+height:75px;}
+.sekil3{
+    width:76px;
+    height:70px;
+}
+.height300{
+    width:370px;
+    height:300px;
+    object-position: center;
+    object-fit: cover;
+}
